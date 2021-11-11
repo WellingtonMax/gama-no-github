@@ -9,3 +9,7 @@ mandei pro github errado, aí procurei no
 youtube como excluir repositório, excluí
 e na segunda vez que eu fiz do início, foi
 super de boas. 
+
+Edição do desafio final:
+
+Tem hora que eu fico confuso mas tá indo.
