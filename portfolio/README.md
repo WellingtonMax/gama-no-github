@@ -1,6 +1,6 @@
 # Freelance Solutions Portfolio — AI-Assisted, Human-Reviewed
 
-**Original demonstration projects**, developed to showcase practical deliverables for freelance clients. This is a portfolio-in-progress, not a record of paid client work.
+[View the client-facing showcase](index.html) · [Python checks workflow](../.github/workflows/freelance-portfolio-ci.yml)\n\n**Original demonstration projects**, developed to showcase practical deliverables for freelance clients. This is a portfolio-in-progress, not a record of paid client work.
 
 **Approach:** requirements → implementation → repeatable tests → documentation → human review. AI-assisted development is disclosed; outcomes are verified before delivery. All sample organizations and data are fictional.
 
