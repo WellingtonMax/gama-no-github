@@ -59,8 +59,9 @@ def clean_rows(rows):
 
 
 def process(source: Path, destination: Path, rejects_file: Path) -> tuple[int, int]:
-    if source.resolve() in {destination.resolve(), rejects_file.resolve()}:
-        raise ValueError("input and output paths must differ")
+    paths = [source.resolve(), destination.resolve(), rejects_file.resolve()]
+    if len(set(paths)) != 3:
+        raise ValueError("input, clean output and reject output paths must differ")
     with source.open("r", encoding="utf-8-sig", newline="") as stream:
         reader = csv.DictReader(stream)
         if not reader.fieldnames or any(key not in reader.fieldnames for key in FIELDS):
