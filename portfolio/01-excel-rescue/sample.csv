@@ -1,0 +1,5 @@
+name,email,signup_date,city
+"Alice Silva"," ALICE@EXAMPLE.COM ",05/11/2026,Brasília
+"Bob Lima",bob@example.com,2026-11-02,Recife
+"Alice duplicate",alice@example.com,2026-11-03,Brasília
+"Invalid entry",no-at-sign,2026-11-03,Salvador
