@@ -1,0 +1,7 @@
+order_id,date,product,category,quantity,unit_price
+1001,2026-11-01,Notebook,Office,2,12.50
+1002,2026-11-02,Pencil,Office,10,1.00
+1003,2026-10-21,Flask,Home,1,25.00
+1004,2026-10-22,Water Bottle,Home,3,8.00
+1005,2026-11-04,Desk Lamp,Office,1,35.50
+1006,2026-11-05,Backpack,Travel,2,45.00
